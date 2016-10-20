@@ -1,0 +1,5 @@
+<view>
+  <canvas canvas-id="gameCanvas" class="game">
+
+  </canvas>
+</view>

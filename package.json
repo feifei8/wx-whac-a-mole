@@ -1,0 +1,19 @@
+{
+  "name": "wx-whac-a-mole",
+  "version": "1.0.0",
+  "description": "打地鼠游戏",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/v2018z/wx-whac-a-mole.git"
+  },
+  "author": "jax.xie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v2018z/wx-whac-a-mole/issues"
+  },
+  "homepage": "https://github.com/v2018z/wx-whac-a-mole#readme"
+}
