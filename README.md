@@ -1,1 +1,1 @@
-# wx-whac-a-mole
+# 微信小程序 － 打地鼠Demo版

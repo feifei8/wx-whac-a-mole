@@ -1,7 +1,14 @@
-.game {
-  border: 1px solid #BFBFBF;
+.chassicCanvas {
+  /*border: 1px solid #faa755;*/
   margin: 0 auto;
-  width: 300px;
-  height: 300px;
+  width: 100%;
+  position: relative;
+}
 
+.hamsterCanvas {
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+  top: 0;
+  left: 0;
 }

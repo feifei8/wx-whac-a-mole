@@ -1,3 +1,4 @@
+
 function formatTime(date) {
   var year = date.getFullYear()
   var month = date.getMonth() + 1
@@ -52,5 +53,6 @@ const getSystemInfo = () => {
 }
 
 module.exports = {
-  formatTime: formatTime
+  formatTime: formatTime,
+  getSystemInfo: getSystemInfo,
 }

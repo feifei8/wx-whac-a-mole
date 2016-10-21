@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/v2018z/wx-whac-a-mole/issues"
   },
-  "homepage": "https://github.com/v2018z/wx-whac-a-mole#readme"
+  "homepage": "https://github.com/v2018z/wx-whac-a-mole#readme",
+  "dependencies": {
+    "lodash": "^4.16.4"
+  }
 }
